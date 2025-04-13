@@ -1,0 +1,31 @@
+git clone https://github.com/<Laxariousman>/CypherX.git
+cd CypherX
+npm startsudo apt-get update
+sudo apt-get upgrade -y
+sudo apt-get install -y bash
+sudo apt-get install -y libwebp
+sudo apt-get install -y git
+sudo apt-get install -y nodejs
+sudo apt-get install -y ffmpeg
+sudo apt-get install -y wget
+sudo apt-get install -y imagemagick
+git clone https://github.com/<your-gitHub-Username>/CypherX
+cd CypherX
+npm install
+npm startapt update -y
+apt upgrade -y
+pkg update -y
+pkg upgrade -y
+pkg install bash -y
+pkg install libwebp -y
+pkg install git -y
+pkg install nodejs -y
+pkg install ffmpeg -y
+pkg install wget -y
+pkg install imagemagick -y
+pkg install yarn
+termux-setup-storage
+cd /sdcard
+cd 
+yarn install
+npm startnpm i -g pm2 && pm2 start index.js && pm2 save && pm2 logsnpm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
